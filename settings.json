@@ -1,0 +1,21 @@
+{
+	"ownerid": "482706815784714272",
+  "botid": "737659825927880746",
+  "serverid": "719234382182875287",
+  "total": "731032862886854738",
+  "totalbot": "737738644843921519",
+  "user": "737738761919791204",
+  "role": "737801736064073789",
+  "channel": "737801809766383658",
+  "rolemuted": "734430827890606110",
+  "category": "",
+  "voice": "",
+	"modrolename": "Moderator",
+	"adminrolename": "Admin",
+	"managerrolename": "Manager",
+	"overlordrolename": "Owner",
+	"prefix": "//",
+  "chatbot": false,
+  "everyoneMention": true,
+  "hostedBy": true
+}
