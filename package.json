@@ -1,0 +1,46 @@
+{
+  "name": "us-indo",
+  "version": "1.0.0",
+  "description": "Open Source version of SadCode Official",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Lamer1337Crew",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "chalk": "^4.1.0",
+    "discord.js": "^11.0.5",
+    "integer": "^4.0.0",
+    "google": "^2.1.0",
+    "lodash.get": "^4.4.2",
+    "lodash.set": "^4.3.2",
+    "lodash.unset": "^4.5.2",
+    "moment": "^2.27.0",
+    "node-gyp": "^7.0.0",
+    "node-superfetch": "^0.1.10",
+    "os-utils": "0.0.14",
+    "quick-db": "1.0.5",
+    "random-puppy": "^1.1.0",
+    "superagent": "^5.3.1",
+    "urban": "^0.3.2",
+    "quick.db": "^7.1.1",
+    "moment-timezone": "^0.5.31",
+    "request": "^2.88.2",
+    "canvas": "^2.6.1",
+    "canvas-constructor": "^3.2.0",
+    "sqlite": "^4.0.12",
+    "ms": "^2.1.2",
+    "fs": "^0.0.2",
+    "canvacord": "^3.0.8",
+    "hastebin-gen": "^2.0.5",
+    "http": "^0.0.0",
+    "express": "^4.17.1",
+    "samp-query": "^0.1.5",
+    "discord-giveaways": "^4.2.1"
+  },
+  "engines": {
+    "node": "11.x"
+  }
+}

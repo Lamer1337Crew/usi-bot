@@ -1,0 +1,21 @@
+{
+    "helpMsg1": [
+      "`softban`, `ban`, `hackban`, `unban`, `kick`, `mute`, `tempmute`, `warn`, `hackwarn`, `clearwarns`, `warnlevel`, `lockdown`, `timedlockdown`, `unlockdown`, `addrole`, `removerole`, `prefix`, `votekick`, `rename`, `purge`, `clean`, `say`, `text`, `welcome`, `goodbye`, `backup`"
+    ], 
+  
+    "helpMsg2": [
+      "`avatar`, `ping`, `serverinfo`, `uptime`, `userinfo`, `botstats`, `vpsstats`, `kuis`, `team-info`, `invites`, `rank`, `leaderboard`"
+    ],
+    
+    "helpMsg3": [
+      "`start`, `delete`, `reroll`, `end`"
+      ],
+  
+    "helpMsg4": [
+      "`loop`, `pause`, `play`, `playlist`, `queue`, `remove`, `resume`, `skip`, `stop`, `volume`, `pruning`, `shuffle`, `nowplaying`, `skipto`, `search`, `lyrics`"
+    ],
+  
+    "helpMsg5": [
+      "`eval`, `exec`, `reload`, `setgame`, `setstatus`, `shutdown`, `botquit`, `setavatar`"
+    ]
+}
